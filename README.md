@@ -1,6 +1,6 @@
 # Calculadora Futurista
 
-![Calculadora Futurista](https://nathaliaaguiar.github.io/CalculadoraFuturista/screenshot.png)
+![Calculadora Futurista](https://nathaliaaguiar.github.io/)
 
 ## Descrição
 
